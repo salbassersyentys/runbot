@@ -1,0 +1,4 @@
+[submodule "odoo/runbot"]
+	path = odoo/runbot
+	url = git@github.com:odoo/runbot.git
+	branch = master
